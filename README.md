@@ -1,1 +1,1 @@
-# Pipeline_Allelic_specific_expression
+# Pipeline_Allele-specific expression (ASE) 
